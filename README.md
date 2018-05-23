@@ -1,7 +1,7 @@
 # nightbot-tf2-random-loadout
 Nightbot command for a random tf2 weapon loadout
 
-![image of random command in action](https://s26.postimg.cc/d800lim8p/example.png)
+![image of random command in action](https://s26.postimg.cc/pze6s86d5/random-tf2-example.png)
 
 # Usage
 
